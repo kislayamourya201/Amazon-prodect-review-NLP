@@ -1,1 +1,12 @@
-# Amazon-prodect-review-NLP
+## Amazon-prodect-review-NLP_End-to-End
+- Package used- NLTK. 
+- Topics covered: 
+- Text cleaning
+- Get the visuals - word cloud,bar graph,freqnGraph
+- Converting text to numeric matrices
+- Advanced visuals using collocations(n-grams-unigrams-bigrams-trigrams)
+- Sentiment Analysis and classification
+- Text classification
+- Document clustering
+- Topic modeling
+- Word Embedding(Gensim)
